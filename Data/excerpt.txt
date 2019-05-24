@@ -1,0 +1,39 @@
+
+# Reading the data: 
+startup = M.system('AI/')
+file = open("/home/johnmelodyme/Documents/API/AI/JMEOG_FWRD_3EB.txt", "r")
+
+
+# Matching the data in file:
+for data in file:
+    if re.match("", data) : #IF  FILE A == B :
+        # Play ."mp3" file if true:
+        M.system("xdg-open /home/johnmelodyme/Documents/API/AI/123.mp3")
+        break
+
+s = Sound()
+s.read('Sound.wav
+
+
+
+
+
+                        while True:
+                            for event in speech.event.get():
+                                if event.type == speech_end:
+                                    speech.mixer.music.stop()
+                                    print("")
+                                    print("Done!")
+                                    return
+                                break
+                            break
+                        break)
+
+speech.mixer.init()
+                        speech.mixer.music.load('/home/johnmelodyme/Documents/API/AI/Sounds/eeganal.mp3')
+                        speech.mixer.music.play(0)
+                        speech.mixer.music.stop()
+                        speech.mixer.music.queue('/home/johnmelodyme/Documents/API/AI/Sounds/123_1.mp3')
+                        speech.mixer.music.play(0)
+                        speech.mixer.music.stop()
+                  

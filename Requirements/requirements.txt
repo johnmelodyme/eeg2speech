@@ -1,0 +1,8 @@
+google-speech==1.1.0
+Yoda-speech==1.0.3
+speech-to-text==0.1.0
+emotion-recognition==1.0.2
+dragonfly==0.6.5
+smtplib
+talk-video-uploader==0.1
+Speech-Hacker==2.3
